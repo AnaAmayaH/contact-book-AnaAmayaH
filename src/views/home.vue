@@ -59,7 +59,7 @@
     border: none;
   }
   .add-button {
-    background-color: #42b983;
+    background-color:#9F86C0;
     color: white;
     padding: 0.5rem 1rem;
     text-decoration: none;
@@ -73,7 +73,7 @@
     margin-bottom: 0.5rem;
   }
   a {
-    color: #42b983;
+    color: #9F86C0;
     text-decoration: none;
   }
   a:hover {

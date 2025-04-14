@@ -75,7 +75,7 @@
     gap: 1rem;
   }
   button {
-    background: #42b983;
+    background: #9F86C0;
     color: white;
     border: none;
     padding: 0.5rem 1rem;
@@ -83,6 +83,6 @@
     cursor: pointer;
   }
   button:hover {
-    background: #36986d;
+    background:  #613995;
   }
   </style>

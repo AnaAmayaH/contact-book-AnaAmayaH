@@ -29,7 +29,7 @@ body {
   min-width: 320px;
   min-height: 100vh;
   margin: 0;
-  background-color: #111;
+  background: linear-gradient(135deg, #0f2027, #203a43, #2c5364);
   color: #fff;
   font-family: 'Roboto', sans-serif;
 }

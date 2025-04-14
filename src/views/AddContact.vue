@@ -52,7 +52,7 @@
     width: 100%;
   }
   button {
-    background-color: #42b983;
+    background-color: #9F86C0;
     color: white;
     padding: 0.5rem 1rem;
     border: none;
@@ -60,6 +60,6 @@
     border-radius: 0.3rem;
   }
   button:hover {
-    background-color: #36986d;
+    background-color: #9F86C0;
   }
   </style>
